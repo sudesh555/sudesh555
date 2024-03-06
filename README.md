@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudesh Bhandari</h1>
 <h3 align="center">A passionate web designer from Nepal</h3>
 
-##<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudesh555" alt="sudesh555" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel and VUE**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sudesh-bhandari-b44461126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudesh-bhandari-b44461126" height="30" width="40" /></a>
 <a href="https://fb.com/sudesh.bhandari.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudesh.bhandari.14" height="30" width="40" /></a>
