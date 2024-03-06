@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudesh Bhandari</h1>
 <h3 align="center">A passionate web designer from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudesh555" alt="sudesh555" /></a> </p>
+##<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudesh555" alt="sudesh555" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel and VUE**
 
